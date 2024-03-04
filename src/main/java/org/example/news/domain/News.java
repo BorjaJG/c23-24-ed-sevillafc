@@ -1,4 +1,4 @@
-package org.example.news;
+package org.example.news.domain;
 
 public class News {
 

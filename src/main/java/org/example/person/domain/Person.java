@@ -1,4 +1,4 @@
-package org.example.person;
+package org.example.person.domain;
 
 public class Person {
 

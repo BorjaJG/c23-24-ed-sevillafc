@@ -1,6 +1,6 @@
-package org.example.person.player;
+package org.example.player.domain;
 
-import org.example.person.Person;
+import org.example.person.domain.Person;
 
 public class Player extends Person {
 

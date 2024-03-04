@@ -1,6 +1,6 @@
-package org.example.person.doctor;
+package org.example.doctor.domain;
 
-import org.example.person.Person;
+import org.example.person.domain.Person;
 
 public class Doctor extends Person {
 

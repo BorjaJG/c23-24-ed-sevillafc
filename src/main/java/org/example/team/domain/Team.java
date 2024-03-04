@@ -1,6 +1,6 @@
-package org.example.team;
+package org.example.team.domain;
 
-import org.example.person.player.Player;
+import org.example.player.domain.Player;
 
 public class Team {
 

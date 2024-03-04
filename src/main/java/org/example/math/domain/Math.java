@@ -1,4 +1,4 @@
-package org.example.math;
+package org.example.math.domain;
 
 public class Math {
 
